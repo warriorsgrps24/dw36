@@ -1,0 +1,26 @@
+[{
+		"BA": "11",
+		"NO": "AA",
+		"STATUS": "A"
+	},
+	{
+		"BA": "12",
+		"NO": "AB",
+		"STATUS": "A"
+	},
+	{
+		"BA": "12",
+		"NO": "AC",
+		"STATUS": "A"
+	},
+	{
+		"BA": "13",
+		"NO": "AD",
+		"STATUS": "X"
+	},
+	{
+		"BA": "13",
+		"NO": "AE",
+		"STATUS": "A"
+	}
+]
